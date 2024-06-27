@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CybrG33k
-- 👀 I’m interested in cybersecurity and scripting to automate work and life processes
+- 👀 I’m interested in cybersecurity, windows, linux and scripting to automate work and life processes
 - 🌱 I’m currently learning scripting with powershell and python
 
 
